@@ -106,7 +106,7 @@ function Hero() {
   return (
     <div className="hero">
       <div className="container">
-        <p className="hero-kicker">An In-Depth Look · Gulf Cooperation Council</p>
+        <p className="hero-kicker">By Surya Kotera</p>
         <h1>Built on<br /><em>Borrowed</em><br />Hands</h1>
         <p className="hero-sub">
           Roughly 25 million migrant workers hold up the economies of the Gulf states.
